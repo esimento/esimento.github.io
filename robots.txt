@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://esimento.github.io/sitemap.html.gz
+Sitemap: https://esimento.github.io/app/sitemap.html.gz
+Sitemap: https://esimento.github.io/assets/sitemap.html.gz
+Sitemap: https://esimento.github.io/css/sitemap.html.gz
+Sitemap: https://esimento.github.io/includes/sitemap.html.gz
+Sitemap: https://esimento.github.io/item/sitemap.html.gz
+Sitemap: https://esimento.github.io/src/sitemap.html.gz
